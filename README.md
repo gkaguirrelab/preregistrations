@@ -2,6 +2,7 @@
 A place to store a record of pre-registration documents
 
 *Perception Studies*
+
 Control Population Stimulus Nulling Experiment 
 This project studies the properties of melanopsin-directed spectral modulations, and asks how much cone contrast must be added to a nominally melanopsin-directed stimulus to minimize the visibility of that stimulus.  See:
   • Spitschan M, Datta R, Stern AM, Brainard DH, Aguirre GK (2016) Human visual cortex responses to rapid cone and melanopsin-directed icker. Journal of Neuroscience 36(5):1471 1482.
@@ -37,6 +38,7 @@ This project investigates how changes in stimulation of melanopsin affects visua
     Registered: 5/7/2019
 
 *Pupillometry Studies*
+
 Comparison of monochromatic and silent-substitution evoked pupil responses
 This project compares pupillary responses to monochromatic blue and red pulses and silent-substitution melanopsin- and cone-directed pulses.  This work was presented in poster form but we judged the contrast of the silent substitution stimuli was not high enough for us to be confident about the results. The project was continued under "Comparison of monochromatic and silent-substitution melanopsin and LMS-directed evoked pupil responses" below.
   Pre-registrations:
@@ -75,6 +77,7 @@ This project studies pupil responses to high-contrast melanopsin- and cone-direc
     Registered: 6/15/2016
 
 *fMRI Studies*
+
 Max Mel MRI
 This project studies evoked brain responses to high-contrast melanopsin- and cone-directed pulses using BOLD fMRI. The work preregistered here is described in:
   • Spitschan, M., Bock, A. S., Ryan, J., Frazzetta, G., Brainard, D. H., Aguirre, G. K. (2017). The human visual cortex response to melanopsin-directed stimulation is accompanied by a distinct perceptual experience. PNAS, 114(46), 1229112296, doi: 10.1073/pnas.1711522114. Download PDF: http://color.psych.upenn.edu/brainard/papers/PNAS-2017-Spitschan.pdf
@@ -106,3 +109,12 @@ This project studies evoked brain responses to melanopsin- and cone-directed pul
     Registered: 6/1/2016
   • Measuring the spatial extent of melanopsin-driven cortical signals: https://osf.io/3c9ev
     Registered: 3/1/2019
+    
+    
+TOME fMRI
+Data Collection for Normally Sighted Subjects at the University of Pennsylvania
+  Pre-registration: https://osf.io/ervrh/
+
+ssVEP Study
+Cortical hyper-responsivity in migraine with visual aura: effects of temporal frequency and post-receptoral channel
+  Pre-registration: https://osf.io/ugrqn
