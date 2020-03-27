@@ -21,7 +21,7 @@ This project records psychophysical ratings of light-flux, melanopsin and LMS di
   - Perceptual ratings of Light Flux, Cone-directed and Melanopsin-directed light pulses: https://osf.io/u8ggn/
     (Registered 1/31/2017)
 
-## Quantifying light perception via perceptual and physiologic measures in response to melanopsin and cone stimulation in migraineurs with interictal photophobia and in headache-free control subjects
+### Quantifying light perception via perceptual and physiologic measures in response to melanopsin and cone stimulation in migraineurs with interictal photophobia and in headache-free control subjects
 This project will determine if patients with light sensitivity due to migraine headache have increased sensitivity to cone stimulation, melanopsin stimulation, or both.
 
   Pre-registrations:
