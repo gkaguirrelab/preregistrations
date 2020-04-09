@@ -83,6 +83,13 @@ This project studies pupil responses to high-contrast melanopsin- and cone-direc
   Pre-registrations:
   - Exp 1: https://osf.io/8gbeh/
     (Registered: 6/15/2016)
+    
+### A comparison of pupil and perceptual responses to photoreceptor directed stimulation in trichromats and deuteranopes
+This project involves making measurements of responses to photoreceptor directed stimulation in dueteranopes. The project has two main aims: 1) understand the extent to which deuteranopes behave similarly to trichromatic controls and 2) determine how responses change in deuteranopes as contrast is increased past 400% (the maximum contrast we are able to deliver to trichromatic observers).
+  Pre-registrations: https://osf.io/ptkvx/
+  - Initial upload: https://osf.io/tsqe9/
+  - First addendum: https://osf.io/zt8nw/
+The initial experiments detailed in this pre-registration were completed in early 2020.
 
 ## fMRI Studies
 
@@ -123,6 +130,10 @@ This project studies evoked brain responses to melanopsin- and cone-directed pul
 ### TOME fMRI
 Data Collection for Normally Sighted Subjects at the University of Pennsylvania
   Pre-registration: https://osf.io/ervrh/
+
+### MaxMelTiming
+In this experiment, we aim to characterize the linear and nonlinear response properties of the cortical response to melanopsin stimulation. We are specifically intersted in the temporal responses of the melanopsin system, and the extent to which they differ from cone-mediated responses. After initial data collection in 2019, the project was put on hold.
+  Pre-registration: https://osf.io/7rvde/
 
 ### ssVEP Study
 Cortical hyper-responsivity in migraine with visual aura: effects of temporal frequency and post-receptoral channel
