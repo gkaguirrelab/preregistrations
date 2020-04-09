@@ -1,5 +1,6 @@
-# preregistrations
-A place to store a record of pre-registration documents
+# GKAaguirre Lab experiment preregistrations
+
+We often [preregister](https://en.wikipedia.org/wiki/Preregistration) our experiments. This page organizes links to these pre-registration documents by project. We initially made use of the [open science foundation](https://osf.io) website for this purpose, but more recently simply commit documents to this repository, which accomplishes the same goal of establishing a date-and-time stamped record of our plans prior to embarking on an experiment.
 
 ## Perception Studies
 
@@ -127,8 +128,8 @@ This project studies evoked brain responses to melanopsin- and cone-directed pul
   - Measuring the spatial extent of melanopsin-driven cortical signals: https://osf.io/3c9ev
     (Registered: 3/1/2019)
     
-### TOME fMRI
-Data Collection for Normally Sighted Subjects at the University of Pennsylvania
+### Human Connectomes in Low Vision -- control subjects
+We have been collecting structural and functional MRI data from normally sighted subjects as part of a Human Connectome Project entitled [Human Connectomes in Low Vision](https://www.humanconnectome.org/study/crhd-human-connectomes-low-vision-blindness-and-sight-restoration). We preregistered our protocol for retaining scanner acquisitions and subjects.
   Pre-registration: https://osf.io/ervrh/
 
 ### MaxMelTiming
