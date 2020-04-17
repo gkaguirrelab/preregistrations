@@ -142,7 +142,7 @@ In this experiment, we aim to characterize the linear and nonlinear response pro
 ### Cortical hyper-responsivity in migraine with visual aura: effects of temporal frequency and post-receptoral channel
 This project compares visual discomfort and steady state visual evoked responses (ssVEP) elicited by LMS, L-M, and S directed stimuli flickering at a range of temporal frequencies in subjects with migraine with visual aura and headache free controls.
 
-  -Patterson Gentile CA, Aguirre GK (2020). A neural correlate of visual discomfort from flicker. bioRxiv Preprint. doi: https://doi.org/10.1101/2020.01.25.919472. URL: https://www.biorxiv.org/content/10.1101/2020.01.25.919472v1
+  - Patterson Gentile CA, Aguirre GK (2020). A neural correlate of visual discomfort from flicker. bioRxiv Preprint. doi: https://doi.org/10.1101/2020.01.25.919472. URL: https://www.biorxiv.org/content/10.1101/2020.01.25.919472v1
   
 The main goals of this project:
   - Evaluate the relationship between visual discomfort and neural activity in early cortex across a range of stimulus conditions
