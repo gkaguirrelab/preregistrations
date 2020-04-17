@@ -150,3 +150,14 @@ The main goals of this project:
   
   Pre-registration:
   - https://osf.io/ugrqn
+  
+  ## Evaluations
+  
+  ### POEM – Penn Online Evaluation of Migraine: An automated, web-based tool to classify subjects for migraine research
+This project has two main goals:
+  - Develop a new online, branching logic questionnaire and automated open-source tool to classify individuals into one of 6 classifications based on the International Classification of Headache Disorders, 3rd edition (beta)
+  - Validate the tool in a cohort of research subjects who were previously classified by a neurologist via interview.
+
+  - Kaiser, E.A., Igdalova A., Aguirre G.K., Cucchiara, B. (2019) [A web-based, branching logic questionnaire for the automated classification of migraine.](https://journals.sagepub.com/doi/10.1177/0333102419847749) Cephalalgia. 39(10):1257-1266. doi: 10.1177/0333102419847749.   
+
+Pre-registration: https://osf.io/sq9ef
