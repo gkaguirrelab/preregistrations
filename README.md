@@ -1,6 +1,6 @@
 # GKAaguirre Lab experiment preregistrations
 
-We often [preregister](https://en.wikipedia.org/wiki/Preregistration) our experiments. This page organizes links to these pre-registration documents by project. We initially made use of the [open science foundation](https://osf.io) website for this purpose, but more recently simply commit documents to this repository, which accomplishes the same goal of establishing a date-and-time stamped record of our plans prior to embarking on an experiment.
+Experiments in the [GKAGuirre Lab](http://gkaguirre.com) are usually [preregistered](https://en.wikipedia.org/wiki/Preregistration). This page organizes links to these pre-registration documents by project. We initially made use of the [open science foundation](https://osf.io) website for this purpose, but more recently simply commit documents to this repository, which accomplishes the same goal of establishing a date-and-time stamped record of our plans prior to embarking on an experiment.
 
 ## Perception Studies
 
