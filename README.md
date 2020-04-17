@@ -134,16 +134,19 @@ We have been collecting structural and functional MRI data from normally sighted
 
 ### MaxMelTiming
 In this experiment, we aim to characterize the linear and nonlinear response properties of the cortical response to melanopsin stimulation. We are specifically intersted in the temporal responses of the melanopsin system, and the extent to which they differ from cone-mediated responses. After initial data collection in 2019, the project was put on hold.
-  Pre-registration: https://osf.io/7rvde/
+  Pre-registration:
+  - https://osf.io/7rvde/
 
 ## ssVEP Study
 
 ### Cortical hyper-responsivity in migraine with visual aura: effects of temporal frequency and post-receptoral channel
-This project compares visual discomfort and steady state visual evoked responses (ssVEP) elicited by LMS, L-M, and S directed stimuli flickering at a range of temporal frequencies in subjects with migraine with visual aura and headache free controls. 
+This project compares visual discomfort and steady state visual evoked responses (ssVEP) elicited by LMS, L-M, and S directed stimuli flickering at a range of temporal frequencies in subjects with migraine with visual aura and headache free controls.
+
   -Patterson Gentile CA, Aguirre GK (2020). A neural correlate of visual discomfort from flicker. bioRxiv Preprint. doi: https://doi.org/10.1101/2020.01.25.919472. URL: https://www.biorxiv.org/content/10.1101/2020.01.25.919472v1
   
 The main goals of this project:
   - Evaluate the relationship between visual discomfort and neural activity in early cortex across a range of stimulus conditions
   - Compare visual discomfort and early visual cortical response in migraine with visual aura subjects to headache free subjects.
   
-  Pre-registration: https://osf.io/ugrqn
+  Pre-registration:
+  - https://osf.io/ugrqn
