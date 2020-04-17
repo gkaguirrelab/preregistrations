@@ -6,7 +6,7 @@ Experiments in the [GKAguirre Lab](http://gkaguirre.com) are usually [preregiste
 
 ### Control Population Stimulus Nulling Experiment 
 This project studies the properties of melanopsin-directed spectral modulations, and asks how much cone contrast must be added to a nominally melanopsin-directed stimulus to minimize the visibility of that stimulus.  See:
-  - Spitschan M, Datta R, Stern AM, Brainard DH, Aguirre GK (2016) Human visual cortex responses to rapid cone and melanopsin-directed icker. Journal of Neuroscience 36(5):1471 1482.
+  - Spitschan M, Datta R, Stern AM, Brainard DH, Aguirre GK (2016) Human visual cortex responses to rapid cone and melanopsin-directed flicker. Journal of Neuroscience 36(5):1471 1482.
   
   Pre-registrations:
   - Control Popuation Stimulus Nulling Experiment Revision 2: https://osf.io/fxasd/
