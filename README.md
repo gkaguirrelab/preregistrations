@@ -57,7 +57,7 @@ Pre-registrations:
 ### Comparison of monochromatic and silent-substitution melanopsin and LMS-directed evoked pupil responses
 In this experiment, we are comparing pupil responses evoked by monochromatic blue and red light pulses to those evoked by silent substitution LMS-directed and melanopsin-directed stimuli. The work preregistered here is described in:
 
-- McAdams, H., Igdalova, A., Spitschan, M., Brainard, D. H., Aguirre, G. K. (2018). [Pulses of melanopsin-directed contrast produce highly reliable pupil responses that are insensitive to a change in background radiance.](http://iovs.arvojournals.org/article.aspx?articleid=2716852) In press, IOVS. (Preprint available at https://doi.org/10.1101/365718.)
+- McAdams, H., Igdalova, A., Spitschan, M., Brainard, D. H., Aguirre, G. K. (2018). [Pulses of melanopsin-directed contrast produce highly reliable pupil responses that are insensitive to a change in background radiance.](http://iovs.arvojournals.org/article.aspx?articleid=2716852) IOVS.
   
 Pre-registrations:
 - Exp 1: https://osf.io/k6qag/ (Registered: 8/8/2016)
@@ -125,7 +125,7 @@ Pre-registration:
 ### Cortical hyper-responsivity in migraine with visual aura: effects of temporal frequency and post-receptoral channel
 This project compares visual discomfort and steady state visual evoked responses (ssVEP) elicited by LMS, L-M, and S directed stimuli flickering at a range of temporal frequencies in subjects with migraine with visual aura and headache free controls.
 
-- Patterson Gentile CA, Aguirre GK (2020). A neural correlate of visual discomfort from flicker. bioRxiv Preprint. doi: https://doi.org/10.1101/2020.01.25.919472. URL: https://www.biorxiv.org/content/10.1101/2020.01.25.919472v1
+- Patterson Gentile CA, Aguirre GK (2020). A neural correlate of visual discomfort from flicker. In Press JoV. bioRxiv Preprint. doi: https://doi.org/10.1101/2020.01.25.919472. URL: https://www.biorxiv.org/content/10.1101/2020.01.25.919472v1
   
 The main goals of this project:
 - Evaluate the relationship between visual discomfort and neural activity in early cortex across a range of stimulus conditions
