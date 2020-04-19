@@ -22,7 +22,9 @@ Pre-registrations:
 - Perceptual ratings of Light Flux, Cone-directed and Melanopsin-directed light pulses: https://osf.io/u8ggn/ (Registered 1/31/2017)
 
 ### Quantifying light perception via perceptual and physiologic measures in response to melanopsin and cone stimulation in migraineurs with interictal photophobia and in headache-free control subjects
-This project will determine if patients with light sensitivity due to migraine headache have increased sensitivity to cone stimulation, melanopsin stimulation, or both.
+This project examined if patients with light sensitivity due to migraine headache have increased sensitivity to cone stimulation, melanopsin stimulation, or both.
+
+- H McAdams, EA Kaiser, A Igdalova, EB Haggerty, B Cucchiara, DH Brainard, GK Aguirre (2020) [Selective amplification of ipRGC signals accounts for interictal photophobia in migraine](https://www.biorxiv.org/content/10.1101/2020.04.17.047290v1). bioRxiv
 
 Pre-registrations:
 - Exp 1: https://osf.io/5ry67/ (Registered: 4/17/2018)
