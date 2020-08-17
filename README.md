@@ -24,7 +24,7 @@ Pre-registrations:
 ### Quantifying light perception via perceptual and physiologic measures in response to melanopsin and cone stimulation in migraineurs with interictal photophobia and in headache-free control subjects
 This project examined if patients with light sensitivity due to migraine headache have increased sensitivity to cone stimulation, melanopsin stimulation, or both.
 
-- H McAdams, EA Kaiser, A Igdalova, EB Haggerty, B Cucchiara, DH Brainard, GK Aguirre (2020) [Selective amplification of ipRGC signals accounts for interictal photophobia in migraine](https://www.biorxiv.org/content/10.1101/2020.04.17.047290v1). bioRxiv
+- H McAdams, EA Kaiser, A Igdalova, EB Haggerty, B Cucchiara, DH Brainard, GK Aguirre (2020) [Selective amplification of ipRGC signals accounts for interictal photophobia in migraine](https://www.pnas.org/content/117/29/17320.long/). PNAS
 
 Pre-registrations:
 - Exp 1: https://osf.io/5ry67/ (Registered: 4/17/2018)
@@ -127,7 +127,7 @@ Pre-registration:
 ### Cortical hyper-responsivity in migraine with visual aura: effects of temporal frequency and post-receptoral channel
 This project compares visual discomfort and steady state visual evoked responses (ssVEP) elicited by LMS, L-M, and S directed stimuli flickering at a range of temporal frequencies in subjects with migraine with visual aura and headache free controls.
 
-- Patterson Gentile CA, Aguirre GK (2020). A neural correlate of visual discomfort from flicker. In Press JoV. bioRxiv Preprint. doi: https://doi.org/10.1101/2020.01.25.919472. URL: https://www.biorxiv.org/content/10.1101/2020.01.25.919472v1
+- Patterson Gentile CA, Aguirre GK (2020). [A neural correlate of visual discomfort from flicker](https://jov.arvojournals.org/article.aspx?articleid=2770320). JoV.
   
 The main goals of this project:
 - Evaluate the relationship between visual discomfort and neural activity in early cortex across a range of stimulus conditions
