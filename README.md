@@ -122,7 +122,15 @@ In this experiment, we aim to characterize the linear and nonlinear response pro
 Pre-registration:
 - https://osf.io/7rvde/
 
-## ssVEP Study
+## VEP Studies
+
+
+### Intra- and inter- subject variability in pattern reversal visual evoked potentials in a pediatric population determined by principal component analysis
+The primary goal of this study is to establish intra- and inter-subject variability of prVEP in a pediatric control population using Principal Component Analysis (PCA).
+
+Pre-registrations:
+- https://github.com/pattersongentilelab/preregistrations/preregistration_controlVEP.pdf
+
 
 ### Cortical hyper-responsivity in migraine with visual aura: effects of temporal frequency and post-receptoral channel
 This project compares visual discomfort and steady state visual evoked responses (ssVEP) elicited by LMS, L-M, and S directed stimuli flickering at a range of temporal frequencies in subjects with migraine with visual aura and headache free controls.
@@ -136,7 +144,8 @@ The main goals of this project:
 Pre-registration:
 - https://osf.io/ugrqn
   
-## Evaluations
+
+## Survey studies
   
 ### POEM – Penn Online Evaluation of Migraine: An automated, web-based tool to classify subjects for migraine research
 We developed an online, branching logic questionnaire and [open-source analysis software](https://github.com/gkaguirrelab/POEM) to support the automated classification of headache symptoms based on the International Classification of Headache Disorders, 3rd edition (beta). This pre-registration document describes our effort to validate the tool against prior classifications made by a neurologist in a cohort of research subjects. The outcome of this project is described here:
