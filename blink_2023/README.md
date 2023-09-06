@@ -36,4 +36,11 @@ Provide date-stamped and initialed entries that document major events that occur
 
 25-Aug-2023 -- EyeStat device has returned to the lab! GGF
 
-30-Aug-2023 -- Pre-registration has been officially posted for public view! GGF
+30-Aug-2023 -- Pre-registration has been officially posted for public view! BlinkCNS has helped us get the EyeStat device to save video data files into local storage again! Wait times in between scans are now taking closer to 1 minute, an improvement from yesterday. The pressure regulator does not want to go above 0 PSI anymore. It was working yesterday and the device has not been moved from the tripod. Changing the canister has not done the trick so it is possible there might be a leak somewhere. Contacted Mike Suplick to help us identify any possible leaks or issues. GGF
+
+31-Aug-2023 -- Mike helped us identify and fix the issue. The pressure regulator was not fully puncturing through the CO2 canisters. The issue has been fixed and we are up and running again! Our first official subject (HaF) is scheduled to come in tomorrow! GGF
+
+01-Sep-2023 -- BLNK_0014 arrived for their session. The minimum requirement for BCVA was not met on their right eye, thus the subject was excluded and the session was ended prematurely without collecting blink data. The subject was paid for their time. GGF
+
+06-Sep-2023 -- We clarified that the enrollment criteria require *best-corrected* visual acuity to be 20/25 or better. It is possible that the BLNK_0014 participant simply requires adequate refraction. Updated the protocol to make clear that we can provide trial lenses or a pinhole to the subject in an attempt to reach the criterion acuity. We also reviewed the cut-off "OSDI" (dry eye) score that we are using for enrollment. We had picked a single value as a threshold; above this score we regarded the subject as having dry eye of sufficient severity that we did not wish to enroll them. Examination of the interpretation of the OSDI score, however, reveals that severity is judged based upon the sum score of all questions answered, and the OSDI score. We therefore modified the enrollment criteria to exclude participants whose OSDI score is greater than 10 + 2x the sum of scores. This excludes people in the mid-range of moderate severity and above. We have not yet studied our first subject, so we do not regard this as a post-hoc change in our pre-registration.
+
