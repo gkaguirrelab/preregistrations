@@ -51,3 +51,5 @@ Provide date-stamped and initialed entries that document major events that occur
 14-Sep-2023 -- BLNK_0021's (HaF) session ended prematurely because their BCVA for left and right eye while wearing their prescription glasses did not meet our eligibility criteria. We tried a couple of trial lenses but were not able to achieve an eligible BCVA. Subject said it had been a while since they had gone to the eye doctor so they intend to get an updated pair of prescription glasses and hope to participte in the study sometime later in the year when we can check their BCVA with their updated prescription glasses. No blink data was collected. GGF
 
 18-Sep-2023 -- BLNK_0014 (HaF) returned for their redo session with their prescription glasses and met BCVA requirement on both eyes. We were able to complete the Day of Visit Protocol without any issues! GGF
+
+20-Sep-2023 -- The BlinkTbiMainApp.exe application froze during scan 20 of BLNK_0018's (MwoA) session. I restarted the application and the device entirely and we were able to resume the session within 10 minutes. GGF
