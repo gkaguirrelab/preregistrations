@@ -59,3 +59,5 @@ Provide date-stamped and initialed entries that document major events that occur
 25-Sep-2023 -- During today's session, the BlinkTbiMainApp.exe application still processed some scans very slowly (the longest taking 7 minutes), but this was a lot less frequent than last session. The majority of the scans processed very quickly actually so they were able to balance each other out and we were able to complete the session within time! GGF
 
 27-Sep-2023 -- BLNK_0021 (HaF) returned for their redo session with their new prescription glasses and met BCVA requirement on both eyes. We were able to complete the Day of Visit Protocol. The BlinkTbiMainApp.exe application is still processing some scans very slowly. GGF
+
+29-Sep-2023 -- The scan processing went super fast this session! When about to scan, the “take baseline” button text didn’t switch over to the “scan” text after the first scan like it usually does. However, after alignment it does show the “scan” text on the button. GGF
