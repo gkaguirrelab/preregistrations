@@ -8,4 +8,4 @@ A Kaiser, EB Haggerty, DP Garner, VY Bunya, GK Aguirre. (in revision) A measure 
 
 and a repository of the code and processed data can be found here:
 
-https://github.com/gkaguirrelab/Kaiser_2023_ClinNeurophys
+https://github.com/gkaguirrelab/Kaiser_2023_Psychophysiology
